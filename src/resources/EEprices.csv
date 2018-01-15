@@ -1,0 +1,387 @@
+PL015,Orchid Pot,40
+PL018,Corinthian Pot,60
+PL019,English Planter,102
+PL043,Small Revival Urn,124
+PL045,Revival Urn,292
+PL048,Provence Finial Pot,46
+PL049,Sussex Urn,136
+PL054,Large Lion Head Trough,82
+PL055,Small Lion Head Trough,46
+PL056,Large Florette Pot,186
+PL057,Medium Florette Pot,92
+PL065,Med Lion Head Trough,60
+PL074,Large Garland Jardinière,312
+PL081,Large Garland Urn,606
+PL100,Lakeshore Urn,136
+PL138,Classical Urn w/ Handles,544
+PL140,Spanish Pot,200
+PL141,Vintage Pot,144
+PL144,Classic Urn,262
+PL145,Large Classic Urn,334
+PL149,Small Embellished Trough,102
+PL151,Mexican Urn,74
+PL152,Cute Craftsman Bowl,40
+PL154,Cute Craftsman Urn,70
+PL155,Rose Pot,144
+PL156,Italian Planter,84
+PL158,Vintage Urn,292
+PL175,Devonshire Urn,330
+PL177,Hampton Urn,46
+PL199,Small Crestline urn,88
+PL200,Crestline Urn,158
+PL210,Bigsby Urn,124
+PL215,Forest Park Trough,270
+PL230,Cheshire Urn,158
+PL240,Ansley Jardiniere,950
+PL252,Holmes Beach Trough,250
+PL258,Provence Urn,260
+PL261,Modern Star Urn,250
+PL262,Modern Star bowl,170
+PL297,Woodlawn Bowl,60
+PL305,Floral Medallion Urn,260
+PL318,Angel Planter,292
+PL360,Perfect Oval Urn,270
+PL400,Boca Grande Urn,270
+PL440,Fairfield Urn,292
+PL451,Redmont Urn,200
+PL452,Redmont Bowl,166
+PL460,Wellington Urn,124
+PL464,Ribbed Oval Urn,90
+PL465,Large Fluted Oval Urn,110
+PL466,Fluted Oval Bowl,70
+PL475,Thornhurst Urn,418
+PL476,Thornhurst Bowl,238
+PL480,Derby Urn,124
+PL481,Derby Bowl,74
+PL485,English Village Urn,590
+PL486,English Village Bowl,438
+PL490,Tulip Pot,178
+PL492,Tulip Vase,84
+PL495,Birmingham Bowl,148
+PL500,Holmes Beach Jardinière,250
+PL525,Stone Vase,102
+PL529,Small Fluted Trough,102
+PL530,Fluted Urn,126
+PL540,Regency Urn,788
+PL550,Rough Hewn Trough,376
+PL610,Self Watering Trough,312
+PL700,20” Modern Box Planter,312
+PL720,36”Modern Box Trough,606
+PL730,30” Modern Box Planter,460
+PL732,Tall Modern Box planter,790
+PL810,Large Architectural Dish,1040
+PL819,Mammoth Pot,522
+PL821,Large Square Planter,396
+PL829,Small Square Planter,166
+PL835,Square Basket Trough,186
+PL840,Veranda Urn & Plinth,376
+PL845,Large Dish,208
+PL847,Great Planter,250
+PL848,Great Planter II,92
+PL849,Great Planter III,74
+PL850,Queen Street Jardinière,136
+PL900,Art Nouveau Grapevine Trough,410
+GA720,20” Galvanized Box Planter,790
+GA730,30” Galvanized Box Planter,990
+GA736,36” Galvanized Box Trough,1190
+GA740,Galvanized Tapered Planter,918
+AC185,Petite Ionic Capital,34
+AC190,Pot Wedge,6
+AC200,Pot Feet,4
+PD025,12” Cube,84
+PD050,Sussex Pedestal,178
+PD071,Round Pedestal,208
+PD091,Classical Pedestal,334
+PD095,Large Column,208
+PD099,Finial Base,136
+PD100,Corinthian Capital,158
+PD103,Square Pedestal,220
+PD120,27” Diameter Pedestal,292
+PD125,Octavian Pedestal,292
+PD200,Crestline Plinth,42
+PD210,Classical Plinth,72
+PD230,Cheshire Plinth,60
+PD300,Bordeaux Pedestal,480
+PD315,15” Fluted Column,84
+PD319,19” Fluted Column,106
+PD323,23” Fluted Column,126
+PD335,Mediterranean Capital,262
+PD400,Manhattan Capital,284
+PD401,Large Baluster,250
+PD441,Fairfield Pedestal,148
+PD450,17” Simple Pedestal,186
+PD451,12” Simple Pedestal,144
+PD460,Wellington Pedestal,136
+PD461,Wellington Plinth,74
+PD482,Petite Sq. Estate Pedestal,200
+PD483,Small Sq. Estate Pedestal,270
+PD484,Medium Sq. Estate Pedestal,334
+PD485,Large Sq. Estate Pedestal,522
+PD486,Large Estate Plinth,220
+PD840,Veranda Plinth,110
+FN126,126” Old English Dining,2530
+FN137,Gothic Side Table,190
+FN142,42” St. Remy Coffee Table,606
+FN148,48” Cantera Console,878
+FN150,Colonial Teak Side chair,418
+FN155,Colonial Teak Arm chair,518
+FN160,60” Cantera Console,958
+FN170,Belgium Bistro chair,298
+FN218,18” Estate Cocktail Table,210
+FN223,24” Rd. Finial Side Table,254
+FN224,24” Sq. Finial Side Table,254
+FN231,Perfect Oval Coffee Table,386
+FN232,32” Perfect Rd. Coffee Table,386
+FN250,Make Out Bench,760
+FN300,48” Demi Lune Table,650
+FN301,42” Demi Lune Table,540
+FN310,54” Firewood Console,1860
+FN313,72” Firewood Console,2190
+FN332,32” Perfect Round Bistro,496
+FN342,42” Perfect Rd. Dining Table,738
+FN343,42” Perfect Sq. Dining Table,804
+FN348,48” Perfect Rd. Dining Table,870
+FN354,54” Console Table,650
+FN360,60”Perfect Rd. Dining Table,1970
+FN372,72” Console Table,770
+FN382,82” Perfect Banquet Table,1750
+FN390,122” Perfect Banquet Table,2850
+FN436,36” Sq. Old English Bistro,592
+FN437,36” Rd. Old English Bistro,592
+FN442,42” Sq. Old English Bistro,738
+FN444,Fleurs des Lyon Bench,416
+FN500,Perfect Oval Bistro,390
+FN502,Petite Oval Side Table,238
+FN505,Bordeaux Bistro 30”,650
+FN536,36” Rd. Old English Coffee Table,386
+FN542,42” Rd. Old English Coffee Table,438
+FN548,48” Rd. Old English Coffee Table,606
+FN601,Edgewood 48” Square Table,1718
+FN603,Edgewood 144” Banquet Table,5154
+FN636,36” Sq. Old English Coffee Table,386
+FN642,42” Sq. Old English Coffee Table,496
+FN650,Edgewood Bench,650
+OJ218,Tiny Olive Jar,82
+OJ219,Small Olive Jar,164
+OJ220,Large Olive Jar,332
+OJ221,Large Oil Jar,352
+OJ222,Small Oil Jar,250
+OJ223,Biot Jar,332
+OJ224,Anduze Jar,144
+OJ225,Mini Olive Jar,16
+OJ226,Aubergine Oil Jar,284
+OJ227,Tiny Oil Jar,102
+OJ228,Petite Oil Jar,186
+OJ230,Mini Oil Jar,36
+OJ231,Large Biot Jar,732
+OJ232,Margeaux Jardinière,250
+OJ234,Small Biot Jar,242
+OJ235,Petite Biot Jar,200
+OJ236,Tiny Biot Jar,60
+OJ237,Mini Biot Jar,34
+OJ245,Spanish Oil Jar,312
+PL143,French Water Jug,102
+FN009,Victorian Garden Stool,132
+FN010,Stone Coffee Table,496
+FN015,Millstone Table,232
+FN020,Edgewood Side Table,188
+FN024,Finial Base Bench,584
+FN026,Madison Bench,518
+FN047,Sweetheart Bench,518
+FN072,72” Old English Dining,1420
+FN084,84” Old English Dining,1530
+FN089,84” Old English Server,1310
+FN090,84” Old Eng. Oval Dining,1530
+FN095,126” Old Eng. Oval Dining,2530
+FN100,French Teak Side Chair,478
+FN105,French Teak Arm Chair,518
+FN108,108” Old English Dining,2080
+FN124,24” Rd. Millstone Side Table,254
+FN125,24” Sq. Millstone Side Table,254
+FN652,Edgewood Coffee Table,450
+FN742,42” Old English Round Table,670
+FN748,48” Old English Round Table,758
+FN800,Perfect Oval Café table,698
+FN801,Perfect 42” Round Café table,698
+FN802,Perfect 42” Square Café table,730
+FN841,Rough Hewn Bench,430
+FN842,Rough Hewn Console,650
+FN843,Rough Hewn Double Console,1190
+FN844,Rough Hewn Firewood Console,1390
+FN848,48” Stone Bench,650
+FN860,60” Stone Bench,738
+FN861,Classic Bench,650
+FN932,32” Perfect Demi-Lune Table,364
+FN948,48” Perfect Demi-Lune Table,760
+GA100,Barcelona Cocktail table,190
+GA200,Barcelona Side table,258
+GA400,Barcelona 48” Console,698
+GA600,Barcelona 72” Console,910
+GA760,Oak & Ga. Iron Side table,1390
+GA765,Oak & Ga. Iron Dining table,2500
+GA770,Zoid Bois Side table,530
+GA771,Zoid Bois Coffee table,1390
+GA772,Zoid Bois Bistro table,1190
+HI318,Hammered Iron Side table,390
+HI336,Hammered Iron Demilune,650
+HI348,Hammered Iron Console,690
+WF100,Cantera Server,1530
+WF425,Large Baluster Server,1442
+FT005,Large Florette Fountainhead,430
+FT008,Lion Medallion,650
+FT009,Lion Head Fountain - Small,1200
+FT010,Lion Head Fountain - Large,1750
+FT011,Rosette Fountain - Large,1750
+FT012,Rosette Fountain - Small,1200
+FT035,Boy w/Cup in Basin Set,890
+PL176,Faux Bois Planter - Round,102
+PL350,Faux Bois Cachepot,52
+PL399,Faux Bois Bowl,52
+ST439,Staddle Stone,158
+FI006, Artichoke,64
+FI064,Petite Fruit Compote,74
+FI066,Small Fruit Compote,96
+FI072,Large Fruit Compote,140
+FI076,Small Garland Finial,96
+FI077,Large Garland Finial,284
+FI437,Large Orb,190
+FI438,Small Orb,58
+FI441,French Finial,240
+FI442,Large Fruit Basket,174
+FI443,Finial,198
+FI444,Obelisk,276
+FI445,Small Fruit Basket,152
+FI446, Petite Fruit Basket,64
+FI450,Gothic Finial,86
+BB271,Stone Bird Bath Top,88
+LT093,Baluster Candlestick,88
+LT094,Neo Gothic Candlestick,52
+LT097,Sq Baluster Candlestick,82
+LT101,Ionic Candlestick,82
+LT208,8” Cthdrl Cndlstick (2 min),60
+LT215,15” Cthdrl Cndlstick(2 min),94
+LT222,22” Cathedral Candlestick,130
+LT228,28” Cathedral Candlestick,152
+LT264,Lge. Fr Baluster Cdlstick,64
+LT265,Med. Fr Baluster Cdlstick,52
+LT266,Sm. Fr Baluster Cdlstick,42
+LT348,15” Candlestick Lamp,232
+LT349,Baluster Lamp,364
+LT350,Ionic Column Lamp,320
+LT351,Estate Pedestal Lamp,408
+LT352,Small Fruit Basket Lamp,408
+LT353,28” Candlestick Lamp,352
+LT354,Cherub with Rose Lamp,364
+LT356,Hampton Urn Lamp,232
+LT357,Mexican Urn Lamp,320
+LT359,Cherub with Shell Lamp,364
+LT360,22” Candlestick Lamp,330
+LT362,Small Garland Finial Lamp,330
+LT363,French Baluster Lamp,330
+LT365,Al Fresco Taper,42
+LT366,Al Fresco Pillar,74
+LT367,Al Fresco Hurricane,34
+LT372,Poinciana Pedestal Lamp,330
+LT374,Limestone Baluster Lamp,298
+LT376,Petite Baluster Lamp,210
+LT378,Faux Bois Lamp,352
+LT379,Parisian Pedestal Lamp,364
+LT381,Poinciana Candlestick,88
+LT384,Tulip Vase Lamp,330
+LT390,Floral Medallion Lamp,330
+LT394,Neo Gothic Lamp,210
+WD035,American Eagle Plaque,56
+WD151,Decatur Rosette,66
+WD262, Modern Star Mirror,218
+WD290,Angel,62
+WD380,Greek Relief,330
+WD382,Caesar,128
+WD383,Cartouche,154
+WD385,Caryatid,150
+WD386,Flower Relief,274
+WD387,Bacchus,78
+WD388, French Corbel,150
+AC240,Large Stone Book,70
+AC250,Foot of Hermes,78
+AC330,Sm. Faux Bois Torso,44
+AC331,Med. Faux Bois Torso,66
+AC332, Lge. Faux Bois Torso,88
+AC415,Winged Victory,86
+BU255,Bust of Herakles,276
+BU470,Horse Bust,166
+FT100,Square Pumpwell,66
+FT140,Spanish Bubbler,598
+FT195,Redmont Tabletop Bubbler,298
+FT225,Redmont Bubbler,650
+FT256,Redmont Urn Ftn Set,1750
+FT420,St Remy Fountain Set,1816
+FT460,Wellington Fountain Set,1090
+FT495,BirminghamTabletop Bubbler,258
+FT621,Large Oil Jar Fountain Set,938
+FT626,Aubergine Oil Jar Fountain Set,858
+FT658,Provence Urn Fountain Set,878
+FT674,Lge Garland Jardiniere Ftn Set,898
+AC032,Tiny Turtle,8
+AC034,Old Frog,34
+AC248,Standing Owl,60
+AC251, Hedgehog with Glass Eye,32
+AC293,Rabbit with Glass Eyes,50
+AC294,Bunny with Glass Eyes,30
+AC295,Jack Rabbit,26
+AC300,Parrot,50
+AC306,Turtle,50
+AC309,Lazy Bunny,38
+AC310,Some Pig,30
+AC312,Grasshopper,32
+ST001,Opal/piped,354
+ST002,Mother and Child,98
+ST030,Girl with Shell/piped,418
+ST037,Boy with Cup /piped,292
+ST039,Lamb somerset,72
+ST068,15th C. Gargoyles pair,682
+ST102,Coy Boy,70
+ST300,Vineyard Cherubs,830
+ST319,Kneeling Angel,250
+ST350,Boy with Trident,1250
+ST430,Sme Tas Tou Sou Sig,122
+ST435,Amorini pair,578
+ST436,St. Francis of Assisi,74
+ST445,French Girl /piped,270
+ST446,Saint Fiacre,186
+ST447,Italian Lady,166
+ST500,Pan Statue,186
+ST510, Heraldic Lion,270
+ST590,English Foal,270
+ST600,Lamb standing,228
+CR031,Scottish Standing Cross,144
+CR057,Crusader Cross,28
+CR066,Scottish Cross,24
+CR069,Leeds Cross Section,250
+CR082,4’ Drumcliff High Cross,292
+CR083,5’ Drumcliff High Cross,396
+CR425,Small Irish Stone,116
+CR428,Spanish Cross,396
+CR429,Square Irish Cross,42
+BB022, Italian Butterfly Bath,116
+BB025,Madison Bird Bath,292
+BB045, Palm Court Bird Bath,208
+BB050, French Font Bird Bath,270
+BB064, Shell Bath,124
+BB069, Griffin Bird Bath,334
+BB270, Mediterranean Bird Bath,274
+BB272, Yorkshire Bird Bath,200
+BB273, Yorkshire Bowl,52
+BB288,Frog Waterer,38
+AC201,Large Garden Mushroom,116
+AC202,Med Garden Mushroom,94
+AC203, Small Garden Mushroom,74
+AC303,Mini Mushroom (12 min),6
+AC307,Mushroom Waterer (4 min),22
+FN079,42” Faux Bois Demi Lune,540
+FN081,48” Faux Bois Demi Lune,650
+FN082,48” Round Faux Bois,870
+FN083,42” Round Faux Bois,770
+FN085,72” Faux Bois Banquet,1530
+PL153,Tree Bark Pot,82
+PL173,Faux Bois Planter - Large,312
+PL174,Faux Bois Planter - Small,40
